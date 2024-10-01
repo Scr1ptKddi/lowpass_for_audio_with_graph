@@ -209,7 +209,7 @@ difference = data - data_filt
 plt.figure()
 plt.plot(x, difference, label='Difference', lw=1)
 plt.xlabel('Time[s]')
-plt.ylabel('ASmplitude Difference')
+plt.ylabel('Amplitude Difference')
 plt.legend()
 
 #show the graph
